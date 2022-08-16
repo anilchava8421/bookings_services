@@ -48,6 +48,5 @@ Link: http://localhost:3000/api-docs/
 
 - Create .ENV file before you use/run the application
 - Provide required (i.e DB, JWT and PORT) details before you run the application.
-- While you accessing the other details like employee/user details you have to provide the token and refreshToken in request headers.
 - You can get the token and refreshToken values in user login (i.e /api/user/login) endpoint response.
 ```
